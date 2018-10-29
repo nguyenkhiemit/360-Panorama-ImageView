@@ -23,7 +23,7 @@ Download image from URL and display to ImageView and CTPanoramaView: <br>
                      // Show the downloaded image:
                      if let data = response.data {
                         self.imageView.image = UIImage(data: data)
-                         self.panoramaView.image = UIImage(data: data)
+                        self.panoramaView.image = UIImage(data: data)
                      }
                  }
              }
