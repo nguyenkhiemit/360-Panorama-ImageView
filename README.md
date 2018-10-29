@@ -4,7 +4,7 @@ IOS: https://github.com/scihant/CTPanoramaView <br>
 Android: https://github.com/gjiazhe/PanoramaImageView <br>
 
 IOS: <br>
-Download image from URL and display to ImageView: <br>
+Download image from URL and display to ImageView and CTPanoramaView: <br>
 
     class ViewController: UIViewController {
 
